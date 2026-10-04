@@ -1,0 +1,9 @@
+{
+  "threshold_days": 14,
+  "lines": {
+    "proposals": {"kind": "marker", "paths": ["evidence/proposals.md", "evidence/archive"], "pattern": "APPROVED (\\d{4}-\\d\\d-\\d\\d)", "glob": "*.md"},
+    "calibration": {"kind": "mtime", "paths": ["evidence/watermark"]},
+    "failure-labels": {"kind": "jsonl-ts", "paths": ["evidence/labels.jsonl"]},
+    "promotion": {"kind": "jsonl-ts", "paths": ["evidence/applied.jsonl"]}
+  }
+}

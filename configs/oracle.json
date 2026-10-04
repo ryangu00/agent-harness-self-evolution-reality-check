@@ -1,0 +1,22 @@
+{
+  "rules": {
+    "plan-writing": [
+      {"tools": ["write", "edit"], "field": "file_path", "pattern": "(^|/)plans/.*\\.md$"},
+      {"tools": ["skill"], "field": "skill", "pattern": "^planning$"}
+    ],
+    "routing": [
+      {"tools": ["read"], "field": "file_path", "pattern": "routing\\.md|outcomes\\.jsonl"},
+      {"tools": ["shell"], "field": "command", "pattern": "routing\\.md|outcomes\\.jsonl"},
+      {"tools": ["write", "edit"], "field": "file_path", "pattern": "proposals\\.md"}
+    ],
+    "review": [
+      {"tools": ["shell"], "field": "command", "pattern": "review-command|verify-command"},
+      {"tools": ["agent"], "field": "role", "pattern": "verifier"}
+    ],
+    "question": [{"tools": ["question"]}],
+    "closeout": [
+      {"tools": ["write", "edit"], "field": "file_path", "pattern": "worklog\\.md|outcomes\\.jsonl|notes/"},
+      {"tools": ["shell"], "field": "command", "pattern": "closeout-command"}
+    ]
+  }
+}

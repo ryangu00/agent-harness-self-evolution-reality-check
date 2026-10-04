@@ -1,0 +1,13 @@
+{"kind": "task", "ts": "2026-08-24T00:00:00+00:00", "rework": true, "group": "group-0", "declared": "main", "actual": "cheap"}
+{"kind": "task", "ts": "2026-08-25T00:00:00+00:00", "rework": false, "group": "group-0", "declared": "main", "actual": "main"}
+{"kind": "task", "ts": "2026-08-26T00:00:00+00:00", "rework": false, "group": "group-0", "declared": "main", "actual": "main"}
+{"kind": "task", "ts": "2026-08-27T00:00:00+00:00", "rework": true, "group": "group-1", "declared": "main", "actual": "cheap"}
+{"kind": "task", "ts": "2026-08-28T00:00:00+00:00", "rework": false, "group": "group-1", "declared": "main", "actual": "main"}
+{"kind": "task", "ts": "2026-08-29T00:00:00+00:00", "rework": false, "group": "group-1", "declared": "main", "actual": "main"}
+{"kind": "task", "ts": "2026-08-30T00:00:00+00:00", "rework": true, "group": "group-2", "declared": "main", "actual": "cheap"}
+{"kind": "task", "ts": "2026-08-31T00:00:00+00:00", "rework": false, "group": "group-2", "declared": "main", "actual": "main"}
+{"kind": "task", "ts": "2026-09-01T00:00:00+00:00", "rework": false, "group": "group-2", "declared": "main", "actual": "main"}
+{"kind": "task", "ts": "2026-09-02T00:00:00+00:00", "rework": true, "group": "group-3", "declared": "main", "actual": "cheap"}
+{"kind": "task", "ts": "2026-09-03T00:00:00+00:00", "rework": false, "group": "group-3", "declared": "main", "actual": "main"}
+{"kind": "task", "ts": "2026-09-04T00:00:00+00:00", "rework": false, "group": "group-3", "declared": "main", "actual": "main"}
+{"kind": "task", "ts": "2026-08-24T00:00:00+00:00", "rework": null, "group": "group-unknown"}

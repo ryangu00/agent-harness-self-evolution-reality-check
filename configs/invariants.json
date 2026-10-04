@@ -1,0 +1,11 @@
+{
+  "knobs": [
+    {"name": "default_threshold", "file": "limits.conf", "regex": "^THRESHOLD = (\\d+)", "env": "HARNESS_TRIGGER_THRESHOLD"},
+    {"name": "resource_threshold", "file": "limits.conf", "regex": "^RESOURCE = (\\d+)"}
+  ],
+  "hashes": [
+    {"name": "rules", "file": "rules.txt", "required": true},
+    {"name": "registration", "file": "registration.json", "required": true},
+    {"name": "limits_file", "file": "limits.conf", "required": false}
+  ]
+}

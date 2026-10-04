@@ -1,0 +1,7 @@
+{
+  "shell_tools": ["shell"],
+  "dispatch_commands": ["cheap-run", "coding-run"],
+  "agent_tools": ["agent"],
+  "workflow_tools": ["workflow"],
+  "workflow_agent_tool": "workflow-agent"
+}

@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {"name": "tasks", "path": "tasks.jsonl", "kind_mapper": "task", "denom": "rework"},
+    {"name": "gates", "path": "gates.jsonl", "kind_mapper": {"block": "outbound-block", "override": "outbound-override", "write": "write-verification"}},
+    {"name": "advice", "path": "advice.jsonl", "kind_mapper": {"trigger": "advisory-trigger", "search": "advisory-search"}, "gate_produced": true},
+    {"name": "probes", "path": "probes.jsonl", "kind_mapper": "probe", "fields": ["ok"]},
+    {"name": "inventory", "path": "inventory.md", "format": "snapshot", "timestamp_pattern": "# inventory (\\S+)", "kind_mapper": "snapshot"}
+  ]
+}

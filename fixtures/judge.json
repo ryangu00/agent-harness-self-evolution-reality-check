@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "n": 1,
+      "tier": "CHEAP",
+      "verdict": "WASTE",
+      "reason": "fixture"
+    },
+    {
+      "n": 2,
+      "tier": "CHEAP",
+      "verdict": "WASTE",
+      "reason": "fixture"
+    },
+    {
+      "n": 3,
+      "tier": "CHEAP",
+      "verdict": "WASTE",
+      "reason": "fixture"
+    },
+    {
+      "n": 4,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 5,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 6,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 7,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 8,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 9,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 10,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 11,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 12,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 13,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 14,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 15,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 16,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 17,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 18,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 19,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 20,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 21,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 22,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 23,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 24,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 25,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 26,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 27,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 28,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 29,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    },
+    {
+      "n": 30,
+      "tier": "CHEAP",
+      "verdict": "OK",
+      "reason": "fixture"
+    }
+  ]
+}

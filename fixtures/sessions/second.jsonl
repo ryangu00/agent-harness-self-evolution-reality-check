@@ -1,0 +1,6 @@
+{"type": "assistant", "sessionId": "synthetic-identity", "message": {"model": "synthetic-model", "usage": {"output_tokens": 1}, "content": [{"type": "tool_use", "name": "read", "input": {"file_path": "synthetic/routing.md"}}]}}
+{"type": "assistant", "sessionId": "synthetic-identity", "message": {"model": "synthetic-model", "usage": {"output_tokens": 2}, "content": [{"type": "tool_use", "name": "shell", "input": {"command": "review-command"}}]}}
+{"type": "assistant", "sessionId": "synthetic-identity", "message": {"model": "synthetic-model", "usage": {"output_tokens": 3}, "content": [{"type": "tool_use", "name": "write", "input": {"file_path": "synthetic/worklog.md"}}]}}
+{"type": "assistant", "sessionId": "synthetic-identity", "message": {"model": "synthetic-model", "usage": {"output_tokens": 4}, "content": [{"type": "tool_use", "name": "write", "input": {"file_path": "synthetic/plans/example.md"}}]}}
+{"type": "assistant", "sessionId": "synthetic-identity", "message": {"model": "synthetic-model", "usage": {"output_tokens": 5}, "content": [{"type": "text", "text": "synthetic text must not be exported"}]}}
+{"type": "assistant", "sessionId": "synthetic-identity", "message": {"model": "synthetic-model", "usage": {"output_tokens": 6}, "content": [{"type": "tool_use", "name": "shell", "input": {"command": "echo fixture"}}]}}
